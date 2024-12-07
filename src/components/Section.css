@@ -1,0 +1,436 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.main_section{
+    width: 100%;
+    display: flex;
+    margin-top: 50PX;
+    
+   
+}
+.left_section{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+text-align: center;
+    flex-direction: column;
+
+}
+.right_section{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.left_section h4{
+    color: rgb(228, 144, 34);
+
+
+}
+
+.left_section h1{
+    margin-top: 20px;
+}
+.left_section p{
+    margin-top: 30px;
+}
+
+.rede a {
+    color: rgb(222, 132, 14);
+    padding-top: 20px;
+   
+}
+
+.right_section img{
+    margin-right: 30px;
+}
+
+.left_section h4:hover{
+    border-bottom: 2px solid rgb(222, 132, 14);
+}
+
+.our{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+
+}
+.our h4{
+    color: rgb(222, 132, 14);
+}
+
+.box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    
+}
+
+.box_one{
+    width: 25%;
+    border: 1px solid black;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(34, 83, 117);
+    color: white;
+  
+    
+}
+
+.ico{
+ font-size: 50px;
+ color: rgb(149, 183, 213);
+ padding-top: 30px;
+ 
+
+}
+
+.box_one:hover{
+    background-color: rgb(18, 208, 113);
+    color: white;
+   
+}
+
+.box_one h2{
+  padding-top: 30px;
+}
+
+.box_one p{
+    padding-top: 30px;
+}
+
+
+.box_two{
+    width: 25%;
+    border: 1px solid black;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(34, 83, 117);
+    color: white;
+    margin-left: 30px;
+  
+    
+}
+
+.box_two:hover{
+    background-color: rgb(18, 208, 113);
+    color: white;
+   
+}
+
+.box_two h2{
+  padding-top: 30px;
+}
+
+.box_two p{
+    padding-top: 30px;
+}
+.box_theer{
+    width: 25%;
+    border: 1px solid black;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(34, 83, 117);
+    color: white;
+    margin-left: 30px;
+  
+    
+}
+
+.box_theer:hover{
+    background-color: rgb(18, 208, 113);
+    color: white;
+   
+}
+
+.box_theer h2{
+  padding-top: 30px;
+}
+
+.box_theer p{
+    padding-top: 30px;
+}
+
+
+.room_main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.room_one{
+    width: 22%;
+    background-image: url(../assets/img/room-b1.jpg);
+    height: 500px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+}
+.room_one h3{
+  color:rgb(222, 132, 14);
+}
+
+.room_one h2{
+    padding-top: 20px;
+}
+
+tbody tr{
+    padding-top: 20px;
+}
+
+
+.room_two{
+    width: 22%;
+    background-image: url(../assets/img/room-b2.jpg);
+    height: 500px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+  
+}
+
+.room_theer{
+    width: 22%;
+    background-image: url(../assets/img/room-b3.jpg);
+    height: 500px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+  
+}
+
+.room_four{
+    width: 22%;
+    background-image: url(../assets/img/room-b4.jpg);
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+  
+}
+
+
+.more a{
+color: gray;
+
+}
+.more{
+    margin-top: 30px;
+}
+
+table{
+    font-size: 15px;
+color: white;
+    margin-top: 20px;
+}
+
+
+.room_one .text:hover{
+ 
+}
+
+
+.room_two h3{
+    color:rgb(222, 132, 14);
+  }
+  
+  .room_two h2{
+      padding-top: 20px;
+  }
+
+
+  .room_theer h3{
+    color:rgb(222, 132, 14);
+  }
+  
+  .room_theer h2{
+      padding-top: 20px;
+  }
+
+  .room_four h3{
+    color:rgb(222, 132, 14);
+  }
+  
+  .room_four h2{
+      padding-top: 20px;
+  }
+
+  .say{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+    
+  .say h3{
+color: rgb(222, 132, 14);
+  }
+  
+  .say p{
+    margin-top: 30px;
+  }
+
+  .new{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+
+  .new h3{
+    color: rgb(222, 132, 14);
+  }
+
+
+  .blog_main{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .one_blog{
+    width: 25%;
+    background-image: url(../assets/img/blog-1.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    position: relative;
+    margin-bottom: 30px;
+
+  }
+  .two_blog{
+    width: 25%;
+    background-image: url(../assets/img/blog-2.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 30px;
+    border-radius: 20px;
+    position: relative;
+    margin-bottom: 30px;
+  }
+  .theer_blog{
+    width: 25%;
+    background-image: url(../assets/img/blog-3.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 30px;
+    border-radius: 20px;
+    position: relative;
+    margin-bottom: 30px;
+  }
+
+  .one_blog .bi-text {
+    position: absolute;
+    left: 0;
+    bottom: 25px;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.one_blog .bi-text .b-time {
+    font-size: 12px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+  .two_blog .bi-text {
+    position: absolute;
+    left: 0;
+    bottom: 25px;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.two_blog .bi-text .b-time {
+    font-size: 12px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+  .theer_blog .bi-text {
+    position: absolute;
+    left: 0;
+    bottom: 25px;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.theer_blog .bi-text .b-time {
+    font-size: 12px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+
+.bi-text h4 a{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+ 
+}
+
+
+
+

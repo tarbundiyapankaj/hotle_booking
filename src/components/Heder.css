@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.heder_main{
+    width: 100%;
+    display: flex;
+   background-image: url('/src/assets/img/hero-1.jpg');
+ padding-top: 40PX;
+  padding-bottom: 50PX;
+   background-repeat: no-repeat;
+background-size: cover;
+}
+
+.left_heder{
+    width: 50%;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.left_heder h1{
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+.left_heder p{
+ padding-top: 10px;
+ margin-top: 30px;
+}
+
+.right_heder{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    
+}
+.btn_one{
+    margin-top: 30px;
+}
+
+.booking{
+    width: 70%;
+    border: 1px solid black;
+ padding-bottom: 50PX;
+ padding-top: 50PX;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color:white;
+    border-radius: 20px;
+    border: none;
+   margin-top: 30px;
+}
+
+form{text-align: center;}
+
+.check_out{
+    padding-top: 30px;
+   
+}
+.check_out input{
+    width: 300px;
+  margin-left: 20px;
+    padding: 10px 20px;
+}
+
+.check_in{
+    padding-top: 30px;
+   
+}
+.check_in input{
+    width: 300px;
+  margin-left: 30px;
+    padding: 10px 20px;
+}
+.guest{
+    padding-top: 35px;
+}
+
+.guest input{
+    width: 300px;
+   
+  margin-left: 40px;
+    padding: 10px 20px;
+}
+.room{
+    padding-top: 30px;
+}
+
+.room input{
+    width: 300px;
+   
+  margin-left: 40px;
+    padding: 10px 20px;
+}
+
+.b_one{
+    padding-top: 30px;
+}
+
+

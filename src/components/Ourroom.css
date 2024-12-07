@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+
+.ourroom_main{
+    display: flex;
+    justify-content: center;
+  margin-top: 50px;
+  font-size: 50px;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+
+}
+
+.li_one{
+    width: 15%;
+    border-bottom: 2px solid  rgb(222, 149, 41);
+  
+   
+}
+
+.our_room_a_main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.our_room_a_one{
+    width: 25%;
+ 
+  
+}
+
+.our_room_a_one img{
+    width: 100%;
+    }
+    
+    
+    table{
+        color:gray;
+    }
+    
+    
+    .one_a_bottom h6 a{
+        text-decoration: none;
+        color: black;
+     
+       
+    }
+    .li_u{
+        width: 30%;
+        border-bottom: 2px solid rgb(222, 149, 41);
+       
+    }
+    
+    
+    .one_a_bottom h4{
+        margin-top: 30px;
+    }
+    
+    .one_a_bottom h3{
+        color: rgb(222, 149, 41);
+        margin-top: 20px;
+    }
+    
+    tr td{
+      padding-top: 20px;
+    }
+    
+    
+    .one_a_bottom h6 {
+        margin-top: 30px;
+    }
+    
+
+.one_a_bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+    border: 1px solid rgb(196, 193, 193);
+    border-top: none;
+}
+
+
+.two_a_bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+    border: 1px solid rgb(196, 193, 193);
+    border-top: none;
+}
+
+
+.our_room_a_two img{
+    width: 100%;
+    }
+    
+    
+    table{
+        color:gray;
+    }
+    
+    
+    .two_a_bottom h6 a{
+        text-decoration: none;
+        color: black;
+     
+       
+    }
+    .li_u{
+        width: 30%;
+        border-bottom: 2px solid rgb(222, 149, 41);
+       
+    }
+    
+    
+    .two_a_bottom h4{
+        margin-top: 30px;
+    }
+    
+    .two_a_bottom h3{
+        color: rgb(222, 149, 41);
+        margin-top: 20px;
+    }
+    
+    tr td{
+      padding-top: 20px;
+    }
+    
+    
+    .two_a_bottom h6 {
+        margin-top: 30px;
+    }
+    
+
+
+
+
+
+
+
+
+
+.our_room_a_two{
+    width: 25%;
+  
+    margin-left: 30px;
+}
+
+.our_room_a_theer{
+    width: 25%;
+  
+    margin-left: 30px;
+}
+
+
+
+.theer_a_bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+    border: 1px solid rgb(196, 193, 193);
+    border-top: none;
+}
+
+
+.our_room_a_theer img{
+    width: 100%;
+    }
+    
+    
+    table{
+        color:gray;
+    }
+    
+    
+    .theer_a_bottom h6 a{
+        text-decoration: none;
+        color: black;
+     
+       
+    }
+    .li_u{
+        width: 30%;
+        border-bottom: 2px solid rgb(222, 149, 41);
+       
+    }
+    
+    
+    .theer_a_bottom h4{
+        margin-top: 30px;
+    }
+    
+    .theer_a_bottom h3{
+        color: rgb(222, 149, 41);
+        margin-top: 20px;
+    }
+    
+    tr td{
+      padding-top: 20px;
+    }
+    
+    
+    .theer_a_bottom h6 {
+        margin-top: 30px;
+    }
+    
+
+
+
+
+footer{
+    margin-top: 50px;
+}
+
+
+.left h1{
+    margin-top: 15PX;
+    color: rgb(222, 149, 41);
+}
